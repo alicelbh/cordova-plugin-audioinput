@@ -436,7 +436,7 @@ audioinput._getNextToPlay = function () {
                 concatenatedData = concatenatedData.concat(audioinput._dequeueAudioData());
             }
 
-            duration = audioinput._playAudio(concatenatedData) * 1000;
+            //duration = audioinput._playAudio(concatenatedData) * 1000;
         }
 
         if (audioinput._capturing) {
