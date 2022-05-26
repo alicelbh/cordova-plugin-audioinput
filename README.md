@@ -1,4 +1,4 @@
-# Uses @pgscan modifications to solve the set timeout problems and make everything faster :)
+# Uses pgscan modifications to solve the set timeout problems and make everything faster :)
 # cordova-plugin-audioinput
 This Cordova plugin enables audio capture from the device microphone, by in (near) real-time forwarding raw audio data to the web layer of your web application.
 A typical usage scenario for this plugin would be to use the captured microphone audio as an audio source for [Web audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) based applications.
